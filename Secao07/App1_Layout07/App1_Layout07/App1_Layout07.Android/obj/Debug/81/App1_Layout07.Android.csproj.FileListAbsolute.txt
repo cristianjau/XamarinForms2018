@@ -1,0 +1,3 @@
+C:\GitHub\XamarinForms2018\Secao07\App1_Layout07\App1_Layout07\App1_Layout07\bin\Debug\netstandard2.0\App1_Layout07.dll
+C:\Users\crist\.nuget\packages\xamarin.forms\3.3.0.967583\lib\MonoAndroid10\FormsViewGroup.dll
+C:\Users\crist\.nuget\packages\xamarin.forms\3.3.0.967583\lib\MonoAndroid10\Xamarin.Forms.Platform.Android.dll
